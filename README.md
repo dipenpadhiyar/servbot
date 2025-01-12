@@ -1,4 +1,4 @@
-# (serBOT) ServerAPI SDK and Custom Ollama Chatbot Integration
+# (servBOT) ServerAPI SDK and Custom Ollama Chatbot Integration
 ![alt text](/images/serbot.png)
 ![alt text](/images/work_in_progress.png)
 
