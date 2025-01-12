@@ -1,5 +1,6 @@
 # Ollama Chatbot UI
 ![alt text](/images/chat_ui.png)
+
 This project provides a simple React-based chatbot interface designed to interact with a backend API powered by **FastAPI** and **ServerAPI SDK**.
 
 ## Features
